@@ -1,0 +1,12 @@
+{
+  "description": "Un NFT tipo 1155", 
+  "external_url": "https://github.com/eppr/1155", 
+  "image": "https://raw.githubusercontent.com/EPPR/NFT-721/main/NFTeppr.png", 
+  "name": "EPPR 1155",
+  "attributes": [
+    {
+      "trait_type": "ERC", 
+      "value": "1155"
+    }
+  ]
+} 
