@@ -1,0 +1,12 @@
+{
+  "description": "Un NFT tipo 1155", 
+  "external_url": "https://github.com/eppr/1155", 
+  "image": "https://raw.githubusercontent.com/EPPR/1155/main/nfts/1.jpeg", 
+  "name": "EPPR SILVER COIN",
+  "attributes": [
+    {
+      "trait_type": "ERC", 
+      "value": "1155"
+    }
+  ]
+} 
